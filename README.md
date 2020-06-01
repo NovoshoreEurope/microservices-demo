@@ -2,7 +2,7 @@
 <img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300"/>
 </p>
 
-
+** Edited by Trond ***
 
 **Online Boutique** is a cloud-native microservices demo application.
 Online Boutique consists of a 10-tier microservices application. The application is a
